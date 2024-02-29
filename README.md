@@ -15,8 +15,9 @@
 
 ⚡ Curiosidade: Eu sou uma pessoa extremamente curiosa (pode não parecer rs), amo fazer novas amizades, sou muito adaptável, amo aprender coisas novas. e a Tecnologia está sendo um verdadeiro desafio, pois todos os dias você tem que esta antenado ao que está acontecendo para não ficar desatualizado.
 
-## Estou aprendendo
+## Estou ## Aprendendo
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trêsdsmax/trêsdsmax-original.svg" width="40" height="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trêsdsmax/trêsdsmax-original.svg" width="40" height="40"/>
           
           
