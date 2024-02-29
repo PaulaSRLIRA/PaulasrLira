@@ -14,11 +14,3 @@
 😄 Hobbies: Assistir Filmes e Séries, Fazer Musculação, Ler livros (sem gênero específico), e colorir um livro de pintura.
 
 ⚡ Curiosidade: Eu sou uma pessoa extremamente curiosa (pode não parecer rs), amo fazer novas amizades, sou muito adaptável, amo aprender coisas novas. e a Tecnologia está sendo um verdadeiro desafio, pois todos os dias você tem que esta antenado ao que está acontecendo para não ficar desatualizado.
-
-
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-<body><i class="devicon-trêsdsmax-plain "></i>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trêsdsmax/trêsdsmax-original.svg" /> </body>
-
-        
-          
