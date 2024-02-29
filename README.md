@@ -15,4 +15,4 @@
 
 ⚡ Curiosidade: Eu sou uma pessoa extremamente curiosa (pode não parecer rs), amo fazer novas amizades, sou muito adaptável, amo aprender coisas novas. e a Tecnologia está sendo um verdadeiro desafio, pois todos os dias você tem que esta antenado ao que está acontecendo para não ficar desatualizado.
 
-
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
