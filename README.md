@@ -3,6 +3,8 @@
 # Me chamo Paula ! 
 ## Bem vindos (as) ao meu perfil GitHub 👋:
 
+🌱 Atualmente estou participando do Bootcamp Full Stack (React+Node) pela Escola SoulCode!
+
 🌱 Atualmente estou estudando e aprendendo a criar projetos com HTML e CSS e após pegar um domínio bom, começarei a me aprofundar em JavaScript. Eu tenho alguns cursos que tive indicação de colegas da área, a maioria é voltado para a carreira Front End. Atualmente eu faço Curso Superior de Tecnologia de Análise e Desenvolvimento de Sistemas na Universidade Anhembi Morumbi e estou no 3ºsemestre. Me formo em junho de 2025.
 
 👯 Atualmente estou procurando estágio em desenvolvimento web, para aprender ainda mais e praticar o que eu venho estudando.
